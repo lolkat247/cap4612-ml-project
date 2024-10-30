@@ -1,4 +1,4 @@
-# ML Movie Predictions
+# ML Weather Predictions
 Predicting Movie Gross Income Using Machine Learning
 ## Objective
  * Build a model that predicts a movie's gross income based on features like genre, run time, rating, budget, etc.
